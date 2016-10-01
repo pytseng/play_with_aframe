@@ -12,6 +12,10 @@
     "budo": "^7.0.0",
     "ghpages": "0.0.3"
   },
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/pytseng/play_with_aframe"
+  },
   "keywords": [
     "aframe",
     "aframe-example",
@@ -19,5 +23,7 @@
     "aframe-scene",
     "webvr",
     "vr"
-  ]
+  ],
+
+
 }
